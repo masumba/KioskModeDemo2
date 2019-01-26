@@ -1,1 +1,1 @@
-This is a kiosk mode deom applocation.
+This is a kiosk mode demo applocation.
